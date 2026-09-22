@@ -1,4 +1,4 @@
-def get_identificador() -> int:
+def get_identificador() -> str:
     return "triangulo"
 def get_area(base: int, altura: int) -> float:
     return (base*altura)/2
